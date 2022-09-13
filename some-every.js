@@ -96,4 +96,4 @@ function hasCertainValue(arr, key, searchValue) {
     return arr.every((obj) => {
         return obj[key]===searchValue;
     });
-}
+} 
